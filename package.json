@@ -1,0 +1,17 @@
+{
+  "name": "sools-auth-provider-github-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sools-auth": "^1.10.0",
+    "sools-auth-server": "^1.8.0",
+    "sools-core-server": "^1.5.0",
+    "sools-express": "^1.19.0"
+  }
+}
